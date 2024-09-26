@@ -1,0 +1,58 @@
+{
+    "produse" : [
+        {
+            "id": "1",
+            "nume": "Macbook Pro M1",
+            "imagine": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_16-inch-MacBook-Pro_111319_big.jpg.large.jpg",
+            "descriere": "The 16-inch MacBook Pro features a new Magic Keyboard with a refined scissor mechanism that delivers 1mm of key travel and a stable key feel, as well as an Apple-designed rubber dome that stores more potential energy for a responsive key press. Incorporating extensive research and user studies focused on human factors and key design, the 16-inch MacBook Pro delivers a keyboard with a comfortable, satisfying and quiet typing experience. The new Magic Keyboard also features a physical Escape key and an inverted-“T” arrangement for the arrow keys, along with Touch Bar and Touch ID, for a keyboard that delivers the best typing experience ever on a Mac notebook.",
+            "pret": 4500,
+            "categorie": "Telefoane/Tablete",
+            "stoc": 5
+        },
+        {
+            "id": "2",
+            "nume": "Iphone 16 128Gb",
+            "imagine": "https://istyle.ro/media/catalog/product/i/p/iphone_16_black_pdp_image_position_5__wwen_t_3_3.jpg",
+            "descriere":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "pret":"4800",
+            "categorie": "Telefoane/Tablete",
+            "stoc": 5
+        },
+        {
+            "id": "3",
+            "nume": "Apple AirTag",
+            "imagine": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airtag-single-select-202104_FMT_WHH?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1617761673000",
+            "descriere": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum" ,
+            "pret": 200,
+            "categorie": "Telefoane/Tablete",
+             "stoc": 10
+        },
+        {
+            "id": "4",
+            "nume": "Apple Watch SE",
+            "imagine": "https://istyle.ro/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/a/p/apple_watch_se_gps_40mm_midnight_aluminum_midnight_sport_band_34fr_screen__usen_t-0_1_1.jpg",
+            "descriere":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "pret": 1660,
+            "categorie": "Telefoane/Tablete",
+             "stoc": 20
+        },
+        {
+            "id": "5",
+            "nume": "Ipad Pro 12.9",
+            "imagine": "https://qmart.ro/wp-content/uploads/2023/07/Tableta-Apple-iPad-Pro.png",
+            "descriere": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "pret": 6000,
+            "categorie": "Telefoane/Tablete",
+             "stoc": 2
+        },
+        {
+            "id": "6",
+            "nume": "Ipod Touch",
+            "imagine": "https://techmarket.co.uk/cdn/shop/products/apple_ipod_touch_7th_gen_gold_2_5.png?v=1622756466",
+            "descriere": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+            "pret": 450,
+            "categorie": "Telefoane/Tablete",
+             "stoc": 2
+        }
+    ]
+}
